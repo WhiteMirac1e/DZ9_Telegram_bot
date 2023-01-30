@@ -1,7 +1,7 @@
 #на столе лежат конфеты
 import telebot
 import random
-bot = telebot.Telebot("5983003991:AAGRDIe83UeLj7ID6hYAVA3Dm_vmqMtjU68")
+bot = telebot.Telebot("6161821924:AAGRyYfSsJWvWbS8GdDlmbbDBEmqtcrzUdY")
 
 sweets = 55
 max_sweet = 28
